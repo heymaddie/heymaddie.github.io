@@ -10,14 +10,19 @@ body {
 	color: #F781D8;
 	background: none;
 	border: none;
+	text-decoration: none;
+	transition: ease all 1s;
 }
 #promA:hover {
-color: #FF00BF;
-cursor: pointer;
+	color: #FF00BF;
+	cursor: pointer;
+	text-decoration: none;
+	transition: ease all 1s;
 }
 #promA:active {
-color: #FF0080;
-cursor: pointer;
+	color: #FF0080;
+	cursor: pointer;
+	text-decoration: none;
 }
 .hotBodyDiv {
 	width: 100%;
