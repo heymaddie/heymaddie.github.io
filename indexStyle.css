@@ -1,0 +1,28 @@
+body {
+	background-color: #DF0174;
+}
+
+#promDiv {
+	height: auto;
+}
+#promA {
+	font-size: 324px;
+	color: #F781D8;
+	background: none;
+	border: none;
+}
+#promA:hover {
+color: #FF00BF;
+cursor: pointer;
+}
+#promA:active {
+color: #FF0080;
+cursor: pointer;
+}
+.hotBodyDiv {
+	width: 100%;
+	height: 600px;
+	background-image: url("hotsam.png");
+	background-repeat: repeat;
+	background-size: contain;
+}
